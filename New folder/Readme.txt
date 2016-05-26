@@ -1,0 +1,1 @@
+This is a distributable installer to run the DVPP library. It will download the Mathworks MCR (MATLAB Compiler Runtime) locally and install in program files.  
